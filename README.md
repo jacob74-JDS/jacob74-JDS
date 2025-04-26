@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0BE8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🌟+Fullstack+Developer+|+Mobile+App+Enthusiast+|+Tech+Explorer+🌟" alt="Typing SVG" />
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jacob74-JDS&label=Profile%20views&color=0e75b6&style=flat" alt="jacob74-JDS" />
 </p>
